@@ -13,7 +13,7 @@
 #define SPRAY 12
 
 DHT dht(DHTPIN, DHTTYPE);
-double idealHumi = 40;
+int idealHumi = 40;
 
 void setup() {
    Serial.begin(9600);
