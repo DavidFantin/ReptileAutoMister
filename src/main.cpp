@@ -2,7 +2,7 @@
 * Hardware: Arduino Nano (ATmega328)
 * Author: David Fantin
 * Date created: 12/28/2022
-* Last update: 12/28/2022
+* Last update: 12/29/2022
 */
 
 #include <Arduino.h>
