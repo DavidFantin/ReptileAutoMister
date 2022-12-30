@@ -10,7 +10,7 @@
 
 #define DHTPIN 2
 #define DHTTYPE DHT22
-#define SPRAY 12
+#define SPRAY 3
 
 DHT dht(DHTPIN, DHTTYPE);
 int idealHumi = 40;
